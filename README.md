@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://github.com/Augusto-Neves/Frontend-Mentor---3-Columns-card-preview)
+- Live Site URL: [Live site URL](https://augusto-neves.github.io/Frontend-Mentor---3-Columns-card-preview/)
 
 ## My process
 
@@ -60,5 +60,5 @@ I want to learn and use more SCSS and yours properties. SCSS is a greatfull tool
 ## Author
 
 - GitHub's Repositories - [Augusto Neves](https://github.com/Augusto-Neves)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Augusto-Neves)
-- Instagram - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Augusto-Neves](https://www.frontendmentor.io/profile/Augusto-Neves)
+- Instagram - [@_augusto_neves](https://www.instagram.com/_augusto_neves/)
